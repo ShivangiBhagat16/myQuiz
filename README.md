@@ -8,11 +8,13 @@
 </div>
 
 <br/>
-<img width="1459" alt="Screenshot 2023-09-17 at 5 00 22 PM" src="https://github.com/ShivangiBhagat16/myQuiz/assets/52678393/06cd5841-2620-4aa6-a6bb-bf5933da32a4">
 
-<img width="1462" alt="Screenshot 2023-09-17 at 4 59 08 PM" src="https://github.com/ShivangiBhagat16/myQuiz/assets/52678393/921cdfa0-f5e1-41d9-a717-4eb06a23207c">
+<img width="1463" alt="myQuiz1" src="https://github.com/ShivangiBhagat16/myQuiz/assets/52678393/5a8d0779-e0e1-44d5-a745-21afc825a605">
 
-<img width="1459" alt="Screenshot 2023-09-17 at 5 00 22 PM" src="https://github.com/ShivangiBhagat16/myQuiz/assets/52678393/cc6daed5-701c-4d36-b806-255057d606fe">
+<img width="1462" alt="myQuiz2" src="https://github.com/ShivangiBhagat16/myQuiz/assets/52678393/37416d84-3970-47db-a54b-a9157bab609b">
+
+<img width="1459" alt="myQuiz3" src="https://github.com/ShivangiBhagat16/myQuiz/assets/52678393/a0737c23-be59-4100-87a7-160778350a89">
+
 
 ### Installation
 
